@@ -21,7 +21,7 @@ repository               : "maria-perica.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Maria-Perica.jpg"
   name             : "Maria Ivana Perica"
   pronouns         : "she/her"  
   bio              : "PhD Candidate"
