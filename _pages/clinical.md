@@ -1,6 +1,8 @@
 ---
 layout: archive
-title: "Clinical Work"
+title: "Clinical"
 permalink: /clinical/
 author_profile: true
 ---
+
+
