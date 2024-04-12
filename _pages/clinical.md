@@ -1,7 +1,6 @@
 ---
-permalink: /
-title: ""
+layout: archive
+title: "Clinical"
+permalink: /clinical/
 author_profile: true
-redirect_from: 
-  - /clinical/
 ---
