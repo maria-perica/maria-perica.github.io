@@ -4,10 +4,7 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /presentations/    
-
-- title: "Clinical Work"
-    url: /clinical/    
+    url: /talks/     
     
   - title: "CV"
     url: /cv/
