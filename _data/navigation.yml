@@ -5,6 +5,9 @@ main:
 
   - title: "Presentations"
     url: /talks/     
+
+ - title: "Clinic"
+    url: /clinical/    
     
   - title: "CV"
     url: /cv/
