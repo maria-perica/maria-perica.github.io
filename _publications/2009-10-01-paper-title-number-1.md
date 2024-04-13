@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Synaptic plasticity/dysplasticity, process memory and item memory in
+rodent models of mental dysfunction"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This is a review paper that I contributed to as an undergraduate student at New York University. In this paper, we propose a model of how different plasticity mechanisms are altered in different rodent models of schizophrenia, and describe why cognitive experience may be beneficial in one model but not in another.'
+date: 2018-08-31
+venue: 'Schizophrenia Research'
+paperurl: 'http://maria-perica.github.io/files/Oreilly_SR_2019.pdf'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
