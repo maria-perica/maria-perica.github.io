@@ -2,7 +2,7 @@
 title: "Synaptic plasticity/dysplasticity, process memory and item memory in
 rodent models of mental dysfunction"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-OReilly-Perica-Schizophrenia Research
 excerpt: 'This is a review paper that I contributed to as an undergraduate student at New York University. In this paper, we propose a model of how different plasticity mechanisms are altered in different rodent models of schizophrenia, and describe why cognitive experience may be beneficial in one model but not in another.'
 date: 2018-08-31
 venue: 'Schizophrenia Research'
