@@ -3,7 +3,7 @@ title: "Development of frontal GABA and glutamate supports excitation/inhibition
 collection: publications
 permalink: /publication/Perica_ProgressNeurobio_2022
 excerpt: 'In this paper, we use 7 Tesla Magnetic Resonance Spectroscopic Imaging in a sample of 144 adolescents and young adults to determine how glutamate and GABA develop through adolescence. '
-date: 2022-12
+date: 2022-12-01
 venue: 'Progress in Neurobiology'
 paperurl: 'http://maria-perica.github.io/files/Perica_ProgressNeurobio_2022.pdf'
 ---
