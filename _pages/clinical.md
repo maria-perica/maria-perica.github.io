@@ -5,12 +5,6 @@ permalink: /clinical/
 author_profile: true
 ---
 
----
-title: "Clinical Experience"
-permalink: /clinical/
-layout: single
----
-
 ## Clinical Training
 
 ### 2025  
