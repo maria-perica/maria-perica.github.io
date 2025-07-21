@@ -67,7 +67,7 @@ Provided CBT for Psychosis and supportive therapy for adolescents at clinical hi
 ### 2019 – 2021  
 **Clinical Psychology Center, University of Pittsburgh**  
 *Supervisors: Andrew Koffmann, Ph.D., Elizabeth Pascoe, Ph.D., Jill Cyranowski, Ph.D., Anna Marsland, Ph.D., RN*  
-Delivered CBT and ACT to adults with mood, anxiety, and chronic pain disorders. Conducted intake evaluations (MMSE) and neuropsychological assessments (WAIS-IV, WASI, TOMM, Trails, FAS, BAI, BDI, MMPI).
+Delivered CBT and ACT to adults with mood, anxiety, and chronic pain disorders. Conducted intake evaluations (MINI) and neuropsychological assessments (WAIS-IV, WASI, TOMM, Trails, FAS, BAI, BDI, MMPI).
 
 ## Specialized Training
 
