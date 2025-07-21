@@ -1,6 +1,6 @@
 ---
 title: "Presentations"
-permalink: /presentations/
+permalink: /talks/
 layout: single
 ---
 
