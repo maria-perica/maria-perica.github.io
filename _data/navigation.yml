@@ -1,14 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+   - title: "CV"
+    url: /files/Perica_CV_2025_07.pdf
+  
+  - title: "Reserch Publications"
     url: /publications/
 
-  - title: "Presentations"
+  - title: "Research Presentations"
     url: /talks/     
 
-  - title: "Clinic"
+  - title: "Clinical Work"
     url: /clinical/    
     
-  - title: "CV"
-    url: /files/Perica_CV_04_2024.pdf
+ 
     
