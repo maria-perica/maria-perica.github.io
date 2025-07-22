@@ -2,6 +2,9 @@
 main:
   - title: "CV"
     url: /files/Perica_CV_2025_07.pdf
+    
+  - title: "Research Experience"
+    url: /researchexp/
 
   - title: "Research Publications"
     url: /publications/
