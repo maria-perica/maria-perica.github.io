@@ -4,8 +4,6 @@ permalink: /researchexp/
 layout: single
 ---
 
-# Research Experience
-
 ### 2025 – Present  
 **Postdoctoral Fellow**  
 *Addiction Sciences Division, Department of Psychiatry, Medical University of South Carolina (MUSC)*  
