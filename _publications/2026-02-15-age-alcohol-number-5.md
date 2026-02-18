@@ -1,5 +1,5 @@
 ---
-title: "Age- and alcohol-related differences in adolescentneurometabolite levels"
+title: "Age- and alcohol-related differences in adolescent neurometabolite levels"
 collection: publications
 permalink: /publication/2025-06-01-paper-title-number-5
 excerpt: 'Adolescence is a critical period for neurometabolic maturation and is typically when alcohol use is initiated. Using 3T magnetic resonance spectroscopy in 84 adolescents (ages = 17–22), 
