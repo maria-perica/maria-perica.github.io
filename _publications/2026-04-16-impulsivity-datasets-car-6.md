@@ -7,7 +7,7 @@ and reusable. This review lowers barriers to using open-access data by guiding r
 basis of impulsivity and substance use, as well as provides recommendations for future data sharing.'
 date: 2026-04-16
 venue: 'Current Addiction Reports'
-paperurl: 'http://maria-perica.github.io/files/Perica_Impulsivity.pdf'
+paperurl: 'http://maria-perica.github.io/_publications/Perica_Impulsivity.pdf'
 publishDate: ""
 ---
 
