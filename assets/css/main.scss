@@ -41,11 +41,9 @@
 @import "print";
 
 /* --- Custom avatar styling --- */
-@media (min-width: 64em) {
-  .author__avatar img {
-    max-width: 200px;   /* bigger than the default 110px — raise/lower to taste */
-    width: 100%;
-    border-radius: 6px; /* straight-ish edges; use 0 for sharp square corners */
-    padding: 0;
-  }
+.author__avatar img {
+  max-width: 200px;              /* bigger than the default 110px */
+  width: 100%;
+  border-radius: 6px !important; /* beats the theme's oval; use 0 for sharp square */
+  padding: 0;
 }
